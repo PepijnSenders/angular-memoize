@@ -97,3 +97,4 @@ vendor/
 # composer.lock
 
 
+bower_components

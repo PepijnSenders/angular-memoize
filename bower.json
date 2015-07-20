@@ -1,0 +1,22 @@
+{
+  "name": "angular-memoize",
+  "version": "0.0.0",
+  "homepage": "https://github.com/PepijnSenders/angular-memoize",
+  "authors": [
+    "Pepijn Senders <p.senders92@gmail.com>"
+  ],
+  "description": "Memoize factory for angular",
+  "main": "index.js",
+  "keywords": [
+    "memoize",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
